@@ -1,0 +1,24 @@
+{
+  "question": [
+    {
+      "question": "Hey",
+      "answer": "Hey there"
+    },
+    {
+      "question": "How are you?",
+      "answer": "Im good. How are you?"
+    },
+    {
+      "question": "Im aslo good.",
+      "answer": "Good to here that."
+    },
+    {
+      "question": "Hi",
+      "answer": "Hi. How can i assist you today?"
+    },
+    {
+      "question": "hi",
+      "answer": "Hi. How can I assist you today?"
+    }
+  ]
+}
