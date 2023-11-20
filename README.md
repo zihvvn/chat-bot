@@ -32,10 +32,6 @@ This is a basic implementation of a chatbot using Python. The chatbot can learn 
 - `main.py`: Backend code, including chatbot logic.
 - `knowledge_base.json`: JSON file serving as the data store for questions and answers.
 
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ### Acknowledgments
 
 - The chatbot logic is based on the difflib library for string matching.
