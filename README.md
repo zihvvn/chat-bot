@@ -13,8 +13,8 @@ This is a basic implementation of a chatbot using Python. The chatbot can learn 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-chatbot-repo.git
-    cd your-chatbot-repo
+    git clone https://github.com/zihaarn/chat-bot.git
+    cd chat-bot
     ```
 
 2. Run the chatbot:
