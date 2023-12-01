@@ -23,10 +23,6 @@ This is a basic implementation of a chatbot using Python. The chatbot can learn 
     python main.py
     ```
 
-    ```bas
-    edit main.py
-    ```
-
 3. Follow the on-screen instructions to interact with the chatbot.
 
 4. To stop the application, type 'quit' as the user input.
