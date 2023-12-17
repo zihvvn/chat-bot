@@ -1,4 +1,4 @@
-## ChatBot
+## ChatBotguv
 
 This is a basic implementation of a chatbot using Python. The chatbot can learn new questions and answers from user interactions and store them in a JSON file.
 
