@@ -5,12 +5,6 @@ This is a basic implementation of a chatbot using Python. The chatbot can learn 
 
 ## Getting Started
 
-### Prerequisites
-
-- Python 3.x
-
-### Usage
-
 1. Clone the repository:
 
     ```bash
